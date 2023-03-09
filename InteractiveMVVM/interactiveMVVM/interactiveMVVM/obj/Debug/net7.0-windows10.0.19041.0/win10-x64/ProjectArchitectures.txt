@@ -1,0 +1,1 @@
+C:\FG\ITS\Framework Based Prog\FBP-FG-ex006-DataBindingMVVM\InteractiveMVVM\interactiveMVVM\interactiveMVVM\interactiveMVVM.csproj;x64
